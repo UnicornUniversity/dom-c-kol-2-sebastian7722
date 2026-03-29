@@ -24,3 +24,5 @@ Zadání úkolu je [zde](https://github.com/UnicornUniversity/BSDE-DS-Assignment
 4) Pokud chcete, můžete importovat funkce z jiných souborů (naznačeno na druhém řádku). Použijte pro to složku src.
 5) Kód je automaticky otestován po každé operaci Push. Pokud chcete, můžete si spustit testování lokálně - je třeba pro to nainstalovat NPM. Následně v příkazovém řádku ve složce projektu nainstalujete moduly přes "npm install" a spustíte testování přes "npm test".
 6) Přepisování testů a nebo způsobu spouštění aplikace (složka test, .get nebo soubor package.json) není povoleno. Pokud k tomu dojde, neznamená to, že úkol nebude hodnocen. Ale přiděláte mi tím práci.
+
+Test
